@@ -22,3 +22,4 @@ Tópicos abordaos:
  [POWERSHEL] cd .venv/bin/activate.ps1
  pip install -r requiriments-dev.txt
  ```
+[![Build Status](https://travis-ci.com/JeanTheodoro/LibPython.svg?branch=main)](https://travis-ci.com/JeanTheodoro/LibPython)
