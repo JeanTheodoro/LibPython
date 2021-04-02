@@ -1,1 +1,24 @@
 # LibPython
+
+Este projeto suport a versão  do _python_ especificaente a versão 3.8.8
+
+Tópicos abordaos:
+
+* virtualenv
+* flake8
+
+
+#### Instalação das dependências no _Linux_
+```console
+ python3 -m venv .venv
+ source .venv/bin/activate
+ pip install -r requiriments-dev.txt
+ ```
+
+#### Instalação das dependências no _Windows_
+```console
+ python -m venv .venv
+ [CMD] cd .venv/bin/activate.bat
+ [POWERSHEL] cd .venv/bin/activate.ps1
+ pip install -r requiriments-dev.txt
+ ```
