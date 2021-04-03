@@ -25,3 +25,4 @@ Tópicos abordaos:
 [![Build Status](https://travis-ci.com/JeanTheodoro/LibPython.svg?branch=main)](https://travis-ci.com/JeanTheodoro/LibPython)
 [![Updates](https://pyup.io/repos/github/JeanTheodoro/LibPython/shield.svg)](https://pyup.io/repos/github/JeanTheodoro/LibPython/)
 [![Python 3](https://pyup.io/repos/github/JeanTheodoro/LibPython/python-3-shield.svg)](https://pyup.io/repos/github/JeanTheodoro/LibPython/)
+[![codecov](https://codecov.io/gh/JeanTheodoro/LibPython/branch/main/graph/badge.svg?token=0EULUUYLBA)](https://codecov.io/gh/JeanTheodoro/LibPython)

@@ -9,6 +9,9 @@ pluggy==0.13.1
 attrs==19.2.0
 iniconfig==1.1.1
 toml==0.10.2
+#Deps do pytest-cov
+coverage==5.5
+pytest-cov==2.11.1
 -r requirements.txt
 
 
