@@ -7,6 +7,3 @@ class SendEmail:
 
 class EmailInvalido(Exception):
     pass
-
-
-

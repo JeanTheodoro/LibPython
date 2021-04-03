@@ -25,7 +25,7 @@ def test_remetente(destinatario):
 
 @pytest.mark.parametrize(
     'remetente',
-    ['','renzo']
+    ['', 'renzo']
 )
 def test_remetente_invalido(remetente):
     send = SendEmail()
