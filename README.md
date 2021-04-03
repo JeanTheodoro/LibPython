@@ -6,6 +6,8 @@ Tópicos abordaos:
 
 * virtualenv
 * flake8
+* _pytest_
+* travis
 
 
 #### Instalação das dependências no _Linux_
