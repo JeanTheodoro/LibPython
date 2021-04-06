@@ -12,6 +12,10 @@ toml==0.10.2
 #Deps do pytest-cov
 coverage==5.5
 pytest-cov==2.11.1
+#pytest_mock
+pytest-mock==3.5.1
+pyparsing==2.4.7
+packaging==20.9
 -r requirements.txt
 
 
