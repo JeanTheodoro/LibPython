@@ -8,7 +8,9 @@ def search_avatar(username):
         :return: str vayar link
     """
     url = f'https://api.github.com/users/{username}'
-    return requests.get(url).json()['avatar_url']
+    resp = requests.get(url)
+    print(resp.json())
+    return resp.json()['avatar_url']
 
 
 if __name__ == '__main__':
