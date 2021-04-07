@@ -1,7 +1,7 @@
 from unittest.mock import Mock
 
 import pytest
-from pytest_mock import mocker
+
 
 from libpython import github_api
 
@@ -21,7 +21,7 @@ def avatar_url(mocker):
         'avatar_url': url,
     }
     get_mock = mocker.patch('libpython.github_api.requests.get')
-    get_mock.return_value=resp_mock
+    get_mock.return_value = resp_mock
     return url
 
 
